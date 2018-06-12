@@ -1,4 +1,5 @@
 # kurs-natours
 
-Szlify Css - postawy podstaw
-Strona wykonana z kursu natours
+Szlify Css - postawy podstaw ///4
+
+LIVE : https://johnywojtek.github.io/kurs-natours/
