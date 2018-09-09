@@ -1,16 +1,13 @@
-# kurs-natours
+# Trillo Page
 
-Szlify Css - postawy podstaw /// 
+Project made on udemy Course
 
-Czego się nauczyłem: 
--podstawy architektury Css-- BEM,
--użycie node.js i skryptów takich jak:
-   *concate,
-   *compile,
-   *prefix,
-   *compress,
--layout zrobiony przy użyciu float-ów,
--przyswajanie/powtarzanie już znanych mi zagadnień,
--duża dawka animacji fajnych efektów (:hover, :focus),
+## Built With
 
-LIVE : https://johnywojtek.github.io/kurs-natours/
+* HTML
+* CSS (SASS)
+* layout : float
+
+LIVE: https://johnywojtek.github.io/kurs-Trillo/
+
+
