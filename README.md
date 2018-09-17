@@ -1,4 +1,4 @@
-# Trillo Page
+# Natours Page
 
 Project made on udemy Course
 
@@ -8,6 +8,6 @@ Project made on udemy Course
 * CSS (SASS)
 * layout : float
 
-LIVE: https://johnywojtek.github.io/kurs-Trillo/
+LIVE: https://johnywojtek.github.io/Natours-page/
 
 
